@@ -1,5 +1,3 @@
-// Name: Xi Chen
-// USC NetID: xchen663
 // CS 455 PA3
 // Fall 2022
 
