@@ -5,8 +5,6 @@
    
    To run it from the command line: 
       java MineSweeper
-      
-   DO NOT CHANGE THIS FILE
 
  */
 
